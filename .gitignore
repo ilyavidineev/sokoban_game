@@ -10,3 +10,5 @@ Icon
 ._*
 
 /out
+*.iml
+/.idea
