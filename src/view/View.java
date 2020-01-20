@@ -41,7 +41,5 @@ public class View extends JFrame {
         update();
         JOptionPane.showMessageDialog(this, "Level completed");
         controller.startNextLevel();
-
     }
-
 }

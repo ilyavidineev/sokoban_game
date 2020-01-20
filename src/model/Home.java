@@ -5,8 +5,8 @@ import java.awt.*;
 public class Home extends GameObject {
     public Home(int x, int y) {
         super(x, y);
-        width = 4;
-        height = 4;
+        width = 2;
+        height = 2;
     }
 
     @Override
